@@ -17,7 +17,7 @@ Project completed as part of the [Front End Web Development track](https://teamt
 
 ## UX Screen Recording
 
-![screen-recording](screen-recording.mp4)
+![screen-recording](https://user-images.githubusercontent.com/764270/127221935-a1724ce7-000e-4437-9c18-a74fac815599.mp4)
 
 ## Feature List
 
@@ -45,7 +45,7 @@ Project completed as part of the [Front End Web Development track](https://teamt
 - [x] Search field includes `aria-label` to describe functionality.
 - [x] Search field includes `type="search"` attribute allowing browsers to add enhancements such as a clear field icon.
 - [x] Search field includes `spellcheck="false"` and `autocomplete="off"` attributes.
-- [x] No HTML `<div>` used.
+- [x] No HTML `<div>` tags used.
 - [x] Tested in latest Chrome, Firefox, and Safari browsers.
 
 ## Technologies Used
