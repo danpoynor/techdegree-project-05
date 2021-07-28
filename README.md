@@ -17,7 +17,7 @@ Project completed as part of the [Front End Web Development track](https://teamt
 
 ## UX Screen Recording
 
-https://vimeo.com/580375989
+https://vimeo.com/580375989/5dca590bc7
 
 ## Feature List
 
