@@ -17,7 +17,7 @@ Project completed as part of the [Front End Web Development track](https://teamt
 
 ## UX Screen Recording
 
-![screen-recording](https://user-images.githubusercontent.com/764270/127221935-a1724ce7-000e-4437-9c18-a74fac815599.mp4)
+![screen-recording](https://vimeo.com/580375989/5dca590bc7)
 
 ## Feature List
 
