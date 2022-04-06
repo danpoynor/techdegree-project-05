@@ -1,7 +1,5 @@
 # techdegree-project-05
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
-
 TeamTreehouse Front-End Developer TechDegree Project 5
 
 ## Table of contents
